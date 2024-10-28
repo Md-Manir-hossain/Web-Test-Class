@@ -1,0 +1,150 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.Heading-1 {
+    background-color: brown;
+    margin-top: 10px;
+    padding-left: 30px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.Box {
+    height: 100px;
+    width: 200px;
+    background-color: aqua;
+    /* margin-top: 8px; */
+    margin: auto;
+}
+
+.Paragraph {
+    background-color: yellowgreen;
+    padding-left: 10px;
+    margin-top: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.Container {
+    background-color: rgb(132, 127, 122);
+    height: 570px;
+    width: 350px;
+    margin: auto;
+    border: 4px solid rgb(1, 1, 2);
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.title {
+    text-align: center;
+    margin: 0%;
+    padding: 3px;
+    background-color: rgb(30, 6, 247);
+    box-sizing: border-box;
+    font-family: Arial;
+    font-size: 25px;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.name-1 {
+    width: 80%;
+    margin-top: 15px;
+    margin-left: 35px;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    box-sizing: border-box;
+}
+
+.email-1 {
+    width: 80%;
+    margin-top: 15px;
+    margin-left: 35px;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    box-sizing: border-box;
+}
+
+.DOB {
+    width: 80%;
+    margin-top: 15px;
+    margin-left: 35px;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    box-sizing: border-box;
+}
+
+.password-1 {
+    width: 80%;
+    margin-top: 15px;
+    margin-left: 35px;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    box-sizing: border-box;
+
+}
+
+.password-2 {
+    width: 80%;
+    margin-top: 15px;
+    margin-left: 35px;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+
+}
+
+.Gender {
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 35px;
+    text-align: center;
+    color: rgb(237, 234, 249);
+    
+}
+
+.Country {
+    width: 80%;
+    padding-top: 5px;
+    margin-left: 35px;
+    text-align: center;
+    color: rgb(237, 234, 249);
+}
+
+.Terms {
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 35px;
+    text-align: center;
+    color: rgb(237, 234, 249);
+}
+
+.Login {
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 35px;
+    text-align: center;
+}
+
+.Login-2 {
+    color: rgb(13, 178, 249);
+}
+
+.button-1 {
+    width: 150px;
+    padding: 7px;
+    margin-top: 30px;
+    margin-left: 100px;
+    background-color: rgb(13, 178, 249);
+    border-radius: 8px;
+}
